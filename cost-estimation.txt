@@ -1,0 +1,1 @@
+Cost Estimation module: estimates construction and maintenance costs.
